@@ -24,10 +24,3 @@ The dataset used is the **Breast Cancer Wisconsin dataset**, available in the **
 - **numpy** for numerical operations
 
 ---
-
-### 🚀 **How to Run Locally**
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/alokkgupta28/breast-cancer-prediction.git
